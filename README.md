@@ -58,6 +58,3 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=KieceDonc&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a0a7407a-93a1-4981-b3b0-f05a078d24ca/246fccbc-d9ae-4f73-8d04-4b63e7a77d33.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a0a7407a-93a1-4981-b3b0-f05a078d24ca/832d30b8-5cea-4804-977a-f19abb14d9ce.png" /></a>
