@@ -5,6 +5,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+	<a href="https://spring.io/projects/spring-boot" target="_blank"> 
+		<img src="https://spring.io/img/projects/spring-boot.svg" alt="java" width="40" height="40"/> 
+	</a>
+	<a href="https://quarkus.io/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/github/explore/4a0bdb9141afd8d9be5d6b8d6b22eb40be88f665/topics/quarkus/quarkus.png" alt="java" width="40" height="40"/> 
+	</a>
 	<a href="https://www.java.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 	</a>
